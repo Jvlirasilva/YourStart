@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: whitesmoke;   
+    font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+    margin-left: 3%;
+}
+
+.h1 {
+    font-size: 100px;
+}
+
+.p {
+    font-size: 50px;
+}
